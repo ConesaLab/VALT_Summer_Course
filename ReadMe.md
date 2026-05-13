@@ -1,59 +1,90 @@
-## GTPB Course Pages
+# VALT Long-Reads Summer School
+<img src="./assets/readme_img/VALT_logo.png" alt="VALT logo" align="centre" width="200px"></a>
 
-### Usage Instructions
+## 👋 Welcome
 
-1. Create contents using .md files in the pages folder. Use normal markdown format for your page contents.
-2. The index.md page is the homepage for the website. Customise it as you would create a README.md file.
-3. If using pdf or images upload them to the assets folder.
-4. DO NOT erase or mess with any of the other folders and/or files without consulting with the organisation, as they are necessary for the website structure, layout and integrity.
+Welcome to the **VALT Bioinformatics Summer School on Analysis of Long-Reads Technology Data**.
 
-### Deployment instructions
+We have organized a comprehensive 3-day course designed for master's students, doctoral candidates, and early career postdoctoral fellows interested in exploring the exciting world of long-read RNA sequencing. Throughout this course, you will be introduced to a diverse range of topics—from fundamental technologies and basic data processing to advanced applications including long-read transcriptome reconstruction, single-cell analysis, and many other exciting topics.
 
-1. Edit the config.yml file to change the course name and url link.
-2. When ready, copy the contents in the master branch to the gh-pages branch.
-3. Make sure everything works properly and do your final corrections.
+### 📃 Table of Contents
 
-<!---
-
-## COURSE_SHORT - COURSE_EXTENDED_NAME
-
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - MONTH DAY<sup>th</sup> - MONTH DAY<sup>th</sup> YEAR
-Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/YEAR/COURSE_SHORT/)
+- [🤔 What Will You Learn?](#-what-will-you-learn)
+- [🧑‍🔬 Who Should Attend?](#-who-should-attend)
+- [📚 Course Prerequisites](#-course-prerequisites)
+- [🗓️ Workshop Schedule](#-workshop-schedule)
 
 ---
 
-#### Co-Authorship
+## 🤔 What Will You Learn?
 
-The following co-authors contributed to the development of the training material.
+* **Technologies & Fundamentals**
+  * Comprehensive overview of different long-read sequencing technologies
+  * Best practices in experimental design
+  * Quality control evaluation using SQANTI-reads
 
-* [CO-AUTHOR_1](https://github.com/CO-AUTHOR_1)
-* [CO-AUTHOR_2](https://github.com/CO-AUTHOR_2)
+* **Analysis & Applications**
+  * Transcript identification and quantification using long reads
+  * Structural annotation evaluation  
+  * Differential expression analysis and haplotype identification
+  * RNA modifications detection with long reads
 
-#### Course Webpage
-This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/YEAR/COURSE_SHORT/), for further information about the course.
+* **Advanced Topics**
+  * Single-cell transcriptomics approaches
+  * Principles and practical applications of metatranscriptomics
 
---->
+## 🧑‍🔬 Who Should Attend?
 
-#### Code of Conduct
-Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
+This training is specifically designed for early career researchers who are:
+* In the grant application phase for long-read sequencing projects
+* Planning experimental design for studies centered around long-read technologies
+* Looking to expand their bioinformatics toolkit with cutting-edge long-read analysis methods
 
-#### License
-This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for details.
+## 📚 Course Prerequisites
 
+* **Required Skills**: Familiarity with command line interfaces
+* Participants should be comfortable with basic Unix shell commands as taught in the [Software Carpentry lesson on The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* We recommend working through these materials before the training if you need to refresh your skills
+
+## 🗓️ Workshop Schedule
+
+### Day 1 - Foundation day
+
+| Time          | Session                                                                                    |
+|--------------|--------------------------------------------------------------------------------------------|
+| 09:00 - 12:30 | **Lecture**:  <br><br> Different long-read sequencing technologies, experimental design, quality, mapping  <br><br> **Lecturers:** Ana Conesa |
+| 12:30 - 13:30 | *Lunch Break*                                                                               |
+| 13:30 - 17:00 | **Hands-on**: <br><br> Different long-read mappers and QC evaluation with SQANTI-reads <br><br> **Lecturers:** Carol and Tian  |
+
+### Day 2 Transcript Analysis Day
+
+| Time          | Session                                                                                    |
+|--------------|--------------------------------------------------------------------------------------------|
+| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Transcript identification and quantification using long reads <br><br> **Lecturers:** Yalan and Ana |
+| 12:30 - 13:30 | *Lunch Break*                                                                               |
+| 13:30 - 17:00 | **Lecture & Hands-on**: <br><br> Evaluation of structural annotation using long reads RNA sequences <br><br> **Lecturers:** Pablo |
+
+### Day 3 Advanced Analysis Day
+
+| Time          | Session                                                                                    |
+|--------------|--------------------------------------------------------------------------------------------|
+| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Differential expression and haplotype analysis using long reads <br><br> **Lecturers:** Nadja and Pablo  |
+| 12:30 - 13:30 | *Lunch Break*                                                                               |
+| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Single-cell transcriptomics with long reads <br><br> **Lecturers:** Eamon and Fran  |
+
+
+
+## Organizers
+* [Ana Conesa](https://www.linkedin.com/in/ana-conesa-557b1a12/)
+* [Pablo Atienza](https://www.linkedin.com/in/pablo-atienza-lopez/)
+* [Clara Rodríguez](https://www.linkedin.com/in/clararodriguezbiologist/)
+* [LongTREC Consortium](https://longtrec.eu/)
+
+ <img src="./assets/images/Long_Trec_logo.png" alt="LongTREC" width="150px"></a>
+ <img src="./assets/images/OSCARS.svg" alt="OSCARS" width="150px"></a>
 ---
 
-#### Host & Co-Sponsor
-
-<a href="http://www.igc.gulbenkian.pt/"><img src="./assets/readme_img/Logo_IGC_2014.png" alt="Instituto Gulbenkian de Ciência" width="250px"></a>
-
-#### Contributors
-
-<a href="https://biodata.pt/"><img src="./assets/readme_img/BIoData_and_co-financiadores.png" alt="Instituto Gulbenkian de Ciência" width="500px"></a>
-
----
-
-[Github Pages](https://pages.github.com) provide a simple way to make a website using Markdown and git.
-
-<br/>
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Web_course_template</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+We thank Pedro Fernandes for providing this template and his training session to prepare this course:
+https://www.linkedin.com/in/pedrofernandesbioinformatics/ <br>
+https://orcid.org/0000-0003-2124-0241 <br>
+pmlfern@gmail.com
