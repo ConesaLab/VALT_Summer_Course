@@ -10,7 +10,7 @@ schemadotorg:
       name: "LongTREC summer school - long-read transcriptomics"
 ---
 
-<img src="../assets/logos/LongTREC_logo_FINAL.png" width="200" />
+<img src="../assets/logos/LongTREC_logo_FINAL.png" width="200" /> <img src="../assets/logos/OSCARS.png" width="150" />
 
 # Day 1 Agenda
 
