@@ -28,7 +28,7 @@ schemadotorg:
 
 | Time | Activity | Details |
 |------|---------|---------|
-| 09:00 - 10:30 | Differential Expression & DIU | <u>Nadja</u>: How to build your expression matrix and concept of DE analysis vs DIU. Hands-on with tappAS and IsoTools. |
+| 09:00 - 10:30 | Differential Expression & DIU | <u>Ana</u>: How to build your expression matrix and concept of DE analysis vs DIU. Hands-on with tappAS and IsoTools. |
 | 10:30 - 11:00 | **Coffee Break** | |
 | 11:00 - 12:30 | Allele-specific & Haplotype analysis | <u>Nadja</u>: Biases, limitations and pipelines for allele-specific expression. Hands-on ASE quantification and analysis. |
 | 12:30 - 13:30 | **Lunch break** | |
