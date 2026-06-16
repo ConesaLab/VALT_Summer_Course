@@ -1,5 +1,5 @@
 # VALT Long-Reads Summer School
-<img src="./assets/readme_img/VALT_logo.png" alt="VALT logo" align="centre" width="200px"></a>
+<img src="./assets/logos/VALT_banner.png" alt="VALT logo" align="centre" width="200px"></a>
 
 ## 👋 Welcome
 
