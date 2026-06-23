@@ -1,0 +1,7 @@
+id	file	group
+cDNA_PacBio-endo_1	data/ENCFF731HST_aligned_chr8.bam	endo
+cDNA_PacBio-endo_2	data/ENCFF712CBL_aligned_chr8.bam	endo
+cDNA_PacBio-endo_3	data/ENCFF235QXW_aligned_chr8.bam	endo
+cDNA_PacBio-h1_1	data/ENCFF853OFP_aligned_chr8.bam	h1
+cDNA_PacBio-h1_2	data/ENCFF436GKZ_aligned_chr8.bam	h1
+cDNA_PacBio-h1_3	data/ENCFF400BQQ_aligned_chr8.bam	h1
