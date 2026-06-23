@@ -1,0 +1,35 @@
+name: isotools2.0.0
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.12
+  # numpy<2.0 required: isotools uses numpy.bool_ as tuple index,
+  # which broke in numpy 2.0 when bool_ stopped subclassing int
+  - numpy>=1.25,<2.0
+  # scipy<1.14 required: 1.14+ wheels are built against numpy 2.x ABI
+  - scipy>=1.10,<1.14
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - numba
+  - tqdm
+  - ipykernel
+  - ipython
+  - pip
+
+  - pip:
+    - isotools==2.0.0
+    - biopython==1.87
+    - intervaltree==3.2.1
+    - pysam==0.24.0
+    - umap-learn==0.5.12
+    - pynndescent==0.6.0
+    - python-ternary==1.0.8
+    - narwhals
+    - patsy
+    - pillow
+    - requests
