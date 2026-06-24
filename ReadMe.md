@@ -70,7 +70,7 @@ This training is specifically designed for early career researchers who are:
 |--------------|--------------------------------------------------------------------------------------------|
 | 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Differential expression and haplotype analysis using long reads <br><br> **Lecturers:** Nadja and Pablo  |
 | 12:30 - 13:30 | *Lunch Break*                                                                               |
-| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Single-cell transcriptomics with long reads <br><br> **Lecturers:** Eamon and Fran  |
+| 13:30 - 17:00 | **Lecture & Hands-on**: <br><br> Single-cell transcriptomics with long reads <br><br> **Lecturers:** Eamon and Fran  |
 
 
 
