@@ -92,9 +92,9 @@ This training is specifically designed for early career researchers who are:
 
 | Time          | Session                                                                                    |
 |--------------|--------------------------------------------------------------------------------------------|
-| 09:00 - 12:30 | **Lecture**:  <br><br> Different long-read sequencing technologies, experimental design, quality, mapping  <br><br> **Lecturers:** Ana Conesa |
+| 09:00 - 12:30 | **Lecture**:  <br><br> Different long-read sequencing technologies, experimental design, quality, mapping  <br><br> **Lecturers:** Carolina |
 | 12:30 - 13:30 | [*Lunch Break*](/assets/images/lunch.webp)                                                                               |
-| 13:30 - 17:00 | **Hands-on**: <br><br> Different long-read mappers and QC evaluation with SQANTI-reads <br><br> **Lecturers:** Carol and Tian  |
+| 13:30 - 17:00 | **Hands-on**: <br><br> Different long-read mappers and QC evaluation with SQANTI-reads <br><br> **Lecturers:** Tian  |
 
 ### Day 2 | [Transcript Analysis Day](./pages/day2.md)
 
@@ -108,7 +108,7 @@ This training is specifically designed for early career researchers who are:
 
 | Time          | Session                                                                                    |
 |--------------|--------------------------------------------------------------------------------------------|
-| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Differential expression and haplotype analysis using long reads <br><br> **Lecturers:** Nadja and Pablo  |
+| 09:00 - 12:30 | **Lecture & Hands-on**: <br><br> Differential expression and haplotype analysis using long reads <br><br> **Lecturers:** Nadja  |
 | 12:30 - 13:30 | [*Lunch Break*](/assets/images/lunch.webp)                                                                               |
 | 13:30 - 17:00 | **Lecture & Hands-on**: <br><br> Single-cell transcriptomics with long reads <br><br> **Lecturers:** Eamon and Fran  |
 
