@@ -47,12 +47,10 @@ schemadotorg:
 * Understand single-cell analysis pipeline steps (preprocessing, QC, tertiary analysis).
 
 ## Materials
-* [Differential expression](../theory/day3/Differential_Expression.pdf): Slides for Join&Call, Call&Join and differential expression.
-* [tappAS](../theory/day3/LongTREC_SummerSchool_tappAS.pptx): Slides for tappAS analysis.
+
 * [Haplotype analysis](../theory/day3/Haplotype_analysis.pptx): Slides for allele-specific expression.
 * [Single-cell 1](../theory/day4/Differences_bulk_single.pdf): Introductory slides about single-cell long-reads.
 * [Single-cell 2](../theory/day4/Pipelines.pdf): Slides for single cell analysis pipelines.
-* [Single-cell 3](../theory/day4/LongTREC_SS_EMC_Long_read_single_cell.pdf): Slides for tertiary analysis of long-reads single cell.
 
 ## Data
 * [Data backup (Day 3)](https://github.com/longTREC/summer_school_data_backup/tree/main/day3/data)
