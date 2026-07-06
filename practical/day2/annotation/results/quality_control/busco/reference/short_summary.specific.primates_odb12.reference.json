@@ -1,0 +1,68 @@
+{
+    "parameters": {
+        "out_path": "/repo/home/biouser2/course_data/annotation_practical",
+        "cpu": "40",
+        "force": "True",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/home/biouser2/course_data/annotation_practical/busco_downloads",
+        "datasets_version": "odb12",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "True",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "in": "/repo/home/biouser2/course_data/annotation_practical/proteins.fa",
+        "out": "results/quality_control/busco/reference",
+        "mode": "proteins",
+        "lineage_dataset": "/home/biouser2/course_data/annotation_practical/busco_downloads/lineages/primates_odb12",
+        "main_out": "results/quality_control/busco/reference",
+        "lineage_results_dir": "run_primates_odb12",
+        "domain": "eukaryota",
+        "ncbi_taxid": "9443",
+        "orthodb_version": "12.1",
+        "dataset_version": "02"
+    },
+    "lineage_dataset": {
+        "name": "primates_odb12",
+        "creation_date": "2026-05-22",
+        "number_of_buscos": "11834",
+        "number_of_species": "13"
+    },
+    "versions": {
+        "hmmsearch": 3.4,
+        "python": [
+            3,
+            10,
+            20,
+            "final",
+            0
+        ],
+        "busco": "5.8.2"
+    },
+    "results": {
+        "one_line_summary": "C:3.9%[S:1.6%,D:2.2%],F:0.0%,M:96.1%,n:11834",
+        "Complete percentage": 3.9,
+        "Complete BUSCOs": 456,
+        "Single copy percentage": 1.6,
+        "Single copy BUSCOs": 191,
+        "Multi copy percentage": 2.2,
+        "Multi copy BUSCOs": 265,
+        "Fragmented percentage": 0.0,
+        "Fragmented BUSCOs": 3,
+        "Missing percentage": 96.1,
+        "Missing BUSCOs": 11375,
+        "n_markers": 11834,
+        "avg_identity": null,
+        "domain": "eukaryota",
+        "internal_stop_codon_count": 0,
+        "internal_stop_codon_percent": 0
+    }
+}

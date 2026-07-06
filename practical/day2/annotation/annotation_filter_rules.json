@@ -1,0 +1,40 @@
+{
+    "rest":[
+        {"RTS_stage": "FALSE",
+        "perc_A_downstream_TTS": [0,59],
+        "predicted_NMD": "FALSE",
+        "FL": 3,
+        "polyA_motif_found": "TRUE",
+        "psauron_score": 0.7,
+        "all_canonical": "canonical",
+        "within_CAGE_peak": "TRUE"
+        },
+        {"RTS_stage": "FALSE",
+        "perc_A_downstream_TTS": [0,59],
+        "predicted_NMD": "FALSE",
+        "FL": 3,
+        "polyA_motif_found": "TRUE",
+        "psauron_score": 0.7,
+        "min_cov": 3,
+        "within_CAGE_peak": "TRUE"
+        },
+        {"RTS_stage": "FALSE",
+        "perc_A_downstream_TTS": [0,59],
+        "predicted_NMD": "FALSE",
+        "FL": 3,
+        "polyA_motif_found": "TRUE",
+        "psauron_score": 0.7,
+        "all_canonical": "canonical",
+        "ratio_TSS": 1.5
+        },
+        {"RTS_stage": "FALSE",
+        "perc_A_downstream_TTS": [0,59],
+        "predicted_NMD": "FALSE",
+        "FL": 3,
+        "polyA_motif_found": "TRUE",
+        "psauron_score": 0.7,
+        "min_cov": 3,
+        "ratio_TSS": 1.5
+        }
+    ]
+}

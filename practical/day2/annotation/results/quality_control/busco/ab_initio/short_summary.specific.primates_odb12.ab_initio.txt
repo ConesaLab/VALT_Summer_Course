@@ -1,0 +1,19 @@
+# BUSCO version is: 5.8.2 
+# The lineage dataset is: primates_odb12 (Creation date: 2026-05-22, number of genomes: 13, number of BUSCOs: 11834)
+# Summarized benchmarking in BUSCO notation for file /repo/home/biouser2/notebooks/pablo/Annotation_practical/results/ab_initio/Augustus_prediction.aa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:2.5%[S:2.5%,D:0.0%],F:0.5%,M:97.0%,n:11834	   
+	300	Complete BUSCOs (C)			   
+	300	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	56	Fragmented BUSCOs (F)			   
+	11478	Missing BUSCOs (M)			   
+	11834	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=20, releaselevel='final', serial=0)
+	busco: 5.8.2

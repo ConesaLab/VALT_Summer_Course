@@ -1,0 +1,19 @@
+# BUSCO version is: 5.8.2 
+# The lineage dataset is: primates_odb12 (Creation date: 2026-05-22, number of genomes: 13, number of BUSCOs: 11834)
+# Summarized benchmarking in BUSCO notation for file /repo/home/biouser2/course_data/annotation_practical/results/evidence_driven/Augustus_isoquant.aa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:2.9%[S:2.7%,D:0.2%],F:0.4%,M:96.7%,n:11834	   
+	344	Complete BUSCOs (C)			   
+	321	Complete and single-copy BUSCOs (S)	   
+	23	Complete and duplicated BUSCOs (D)	   
+	45	Fragmented BUSCOs (F)			   
+	11445	Missing BUSCOs (M)			   
+	11834	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=20, releaselevel='final', serial=0)
+	busco: 5.8.2
