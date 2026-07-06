@@ -47,14 +47,11 @@ schemadotorg:
 * Understand single-cell analysis pipeline steps (preprocessing, QC, tertiary analysis).
 
 ## Materials
-
+* [TappAS](../theory/day3/VALT_SummerSchool_tappAS.pptx): Slides for differential isoform usage analysis.
 * [Haplotype analysis](../theory/day3/Haplotype_analysis.pptx): Slides for allele-specific expression.
-* [Single-cell 1](../theory/day4/Differences_bulk_single.pdf): Introductory slides about single-cell long-reads.
-* [Single-cell 2](../theory/day4/Pipelines.pdf): Slides for single cell analysis pipelines.
+* [Single-cell 1](../theory/day3/Differences_bulk_single.pdf): Introductory slides about single-cell long-reads.
+* [Single-cell 2](../theory/day3/Pipelines.pdf): Slides for single cell analysis pipelines.
 
-## Data
-* [Data backup (Day 3)](https://github.com/longTREC/summer_school_data_backup/tree/main/day3/data)
-* [Data backup (Day 4/Single Cell)](https://github.com/longTREC/summer_school_data_backup/tree/main/day4/data)
 
 ## Recommended Bibliography
 * Bi, Yalan. et al. IsoTools 2.0: software for comprehensive analysis of long-read transcriptome sequencing data. Journal of Molecular Biology (2025). https://doi.org/10.1016/j.jmb.2025.169049
